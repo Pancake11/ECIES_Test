@@ -1,0 +1,15 @@
+/home/pancook/stage/bin/Debug/net8.0/stage
+/home/pancook/stage/bin/Debug/net8.0/stage.deps.json
+/home/pancook/stage/bin/Debug/net8.0/stage.runtimeconfig.json
+/home/pancook/stage/bin/Debug/net8.0/stage.dll
+/home/pancook/stage/bin/Debug/net8.0/stage.pdb
+/home/pancook/stage/obj/Debug/net8.0/stage.csproj.AssemblyReference.cache
+/home/pancook/stage/obj/Debug/net8.0/stage.GeneratedMSBuildEditorConfig.editorconfig
+/home/pancook/stage/obj/Debug/net8.0/stage.AssemblyInfoInputs.cache
+/home/pancook/stage/obj/Debug/net8.0/stage.AssemblyInfo.cs
+/home/pancook/stage/obj/Debug/net8.0/stage.csproj.CoreCompileInputs.cache
+/home/pancook/stage/obj/Debug/net8.0/stage.dll
+/home/pancook/stage/obj/Debug/net8.0/refint/stage.dll
+/home/pancook/stage/obj/Debug/net8.0/stage.pdb
+/home/pancook/stage/obj/Debug/net8.0/stage.genruntimeconfig.cache
+/home/pancook/stage/obj/Debug/net8.0/ref/stage.dll
